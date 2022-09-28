@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-movie-web-server/static/js/main.82ef1516.js",
+    "main.js": "/react-movie-web-server/static/js/main.c70cea56.js",
     "index.html": "/react-movie-web-server/index.html",
-    "main.82ef1516.js.map": "/react-movie-web-server/static/js/main.82ef1516.js.map"
+    "main.c70cea56.js.map": "/react-movie-web-server/static/js/main.c70cea56.js.map"
   },
   "entrypoints": [
-    "static/js/main.82ef1516.js"
+    "static/js/main.c70cea56.js"
   ]
 }
